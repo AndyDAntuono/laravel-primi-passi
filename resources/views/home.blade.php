@@ -6,6 +6,7 @@
     <title>Homepage</title>
 </head>
 <body>
-    <h1>Hello World</h1>
+    <!--come chiesto nellla consegna modifico il file per far visualizzare dinamicamente il seguente messaggio-->
+    <h1>{{ $message }}</h1>
 </body>
 </html>
